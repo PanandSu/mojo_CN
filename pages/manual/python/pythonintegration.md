@@ -164,7 +164,7 @@ Mojo SDK 依赖于现有安装的 Python 版本，其中包括 Python 解释器�
 ```sh
 ~/miniconda3/bin/conda init --all
 ```
-重新启动你的外壳。
+重新启动你的shell。
 
 运行以下命令将 Mojo 配置为使用 Conda 环境中的 Python 共享库：
 ```sh
